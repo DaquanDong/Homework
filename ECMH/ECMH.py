@@ -71,7 +71,7 @@ def Legendre(n, p):  # 欧拉准则判断是否为二次剩余
     return pow(n, (p - 1) // 2, p)
 
 
-def Tonelli_Shanks(n, p):  # Tonelli-Shanks算法求二次剩余
+def Tonelli_Shanks(n, p):  
     assert Legendre(n, p) == 1
     if p % 4 == 3:
         return pow(n, (p + 1) // 4, p)
