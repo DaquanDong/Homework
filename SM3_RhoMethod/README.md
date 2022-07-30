@@ -2,8 +2,12 @@
 
 **当碰撞比特数为8bit时，代码运行情况如下：**
 ![1](https://github.com/DaquanDong/Homework/blob/main/SM3_RhoMethod/1.png)
+
+
 **当碰撞比特数为16bit时，代码运行情况如下：**
-![2](C:\Users\AAA\OneDrive - mail.sdu.edu.cn\Desktop\SM3_RhoMethod\2.png)
+![2]([C:\Users\AAA\OneDrive - mail.sdu.edu.cn\Desktop\SM3_RhoMethod\2.png](https://github.com/DaquanDong/Homework/blob/main/SM3_RhoMethod/2.png))
+
+
 **当碰撞比特数为32bit时，代码运行情况如下：**
 ![img](file:///C:\Users\AAA\AppData\Roaming\Tencent\Users\1018653025\QQ\WinTemp\RichOle\S8F%}8QV]CM39AN1IBSF8{7.png)
 
