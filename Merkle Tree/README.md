@@ -8,3 +8,5 @@
 * 可以通过发送字符串列表并获取其对应的默克尔树根哈希来测试,测试结果如下：
 
 ![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Tree/result.png)
+
+* reference：https://onuratakan.medium.com/what-is-the-merkle-tree-with-python-example-cbb4513b8ad0
