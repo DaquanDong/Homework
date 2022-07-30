@@ -19,7 +19,7 @@
 |  1   | Implement the naïve birthday attack of reduced SM3           | [SM3_BirthdayAttack](https://github.com/DaquanDong/Homework/tree/main/SM3_BirthdayAttack)|董大铨     |
 |  2   | Implement the Rho method of reduced SM3                      | [SM3_RhoMethod](https://github.com/DaquanDong/Homework/tree/main/SM3_RhoMethod) |  董大铨   |
 |  3   | Implement length extension attack for SM3, SHA256, etc       | [SM3 LengthExtensionAttack](https://github.com/DaquanDong/Homework/tree/main/SM3_length%20extension%20attack)                                                             | 吕洪宽    |
-|  4   | Do your best to optimize SM3 implementation (software)       |                                                              |  吕洪宽   |
+|  4   | Do your best to optimize SM3 implementation (software)       |  [SM3 optimization](https://github.com/DaquanDong/Homework/tree/main/SM3%20optimization)                                                   |  吕洪宽   |
 |  5   | Impl Merkle Tree following RFC6962                           |                                                              |     |
 |  6   | Try to Implement this scheme                                 |                                                              |     |
 |  7   | Report on the application of this deduce technique in Ethereum with ECDSA |                                                              |     |
