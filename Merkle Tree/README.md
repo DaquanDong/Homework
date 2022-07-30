@@ -6,4 +6,5 @@
 * 由于 Merkle 树的结构方式，我们需要偶数个叶节点来建树。如果有奇数个数据块，那么只需对最后一个块进行两次哈希处理，复制最后一个叶节点。
 * Merkle 树类本身包含两种用于递归构建树的方法，另外两种用于按前缀顺序打印节点，另一种用于获取根哈希。
 * 可以通过发送字符串列表并获取其对应的默克尔树根哈希来测试,测试结果如下：
-![Image text](https://github.com/DaquanDong/Homework/blob/main/SM3%20optimization/Results%20before%20optimization.png)
+* 
+![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Tree/result.png)
