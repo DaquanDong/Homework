@@ -25,8 +25,8 @@
 |  7   | Report on the application of this deduce technique in Ethereum with ECDSA | [ECDSA](https://github.com/DaquanDong/Homework/tree/main/ECDSA) | 董大铨         |
 |  8   | Impl sm2 with RFC6979                                        | [sm2](https://github.com/DaquanDong/Homework/tree/main/sm2)  | 董大铨，邵鹏翔 |
 |  9   | Verify the above pitfalls with proof-of-concept code         |                                                              |                |
-|  10  | Implement the above ECMH scheme                              |                                                              |                |
-|  11  | Implement a PGP scheme with SM2                              |                                                              |                |
+|  10  | Implement the above ECMH scheme                              | [ECMH](https://github.com/DaquanDong/Homework/tree/main/ECMH) | 邵鹏翔，董大铨 |
+|  11  | Implement a PGP scheme with SM2                              | [PGP](https://github.com/DaquanDong/Homework/tree/main/PGP)  | 董大铨，邵鹏翔 |
 |  12  | Implement sm2 2P sign with real network communication        |                                                              |                |
 |  13  | Implement sm2 2P decrypt with real network communication     |                                                              |                |
 |  14  | Send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself |                                                              |                |
@@ -35,6 +35,5 @@
 |  17  | Research report on MPT                                       | 1.[MPT](https://github.com/DaquanDong/Homework/tree/main/Merkle%20Patricia%20Trie)（吕洪宽）                     2.[MPT研究报告 ](https://github.com/DaquanDong/Homework/tree/main/MPT研究报告)（董大铨） | 吕洪宽，董大铨 |
 |  18  | Find a key with hash value `sdu_cst_20220610` under a message composed of your name followed by your student ID. For example, `San Zhan 202000460001` |                                                              |                |
 |  19  | Find a 64-byte message under some k fulfilling that their hash value is symmetrical |                                                              |                |
-| 20.1 | Write a circuit to prove that your CET6 grade is larger than 425.（a. Your grade info is like `(cn_id, grade, year, sig_by_moe)`. These grades are published as commitments onchain by MoE. b. When you got an interview from an employer, you can prove to them that you have passed the exam without letting them know the exact grade.） | [Real world zk](https://github.com/DaquanDong/Homework/tree/main/Real world zk) | 董大铨         |
-| 20.2 | The commitment scheme used by MoE is SHA256-based.（`commit` = `SHA256(cn_id, grade, year, sig_by_moe, r)`） |                                                              |                |
-|  21  | Impl sm4                                                     |                                                              |                |
+|  20  | Write a circuit to prove that your CET6 grade is larger than 425.（a. Your grade info is like `(cn_id, grade, year, sig_by_moe)`. These grades are published as commitments onchain by MoE. b. When you got an interview from an employer, you can prove to them that you have passed the exam without letting them know the exact grade.） | [Real world zk](https://github.com/DaquanDong/Homework/tree/main/Real world zk) | 董大铨         |
+|  21  | The commitment scheme used by MoE is SHA256-based.（`commit` = `SHA256(cn_id, grade, year, sig_by_moe, r)`） |                                                              |                |
