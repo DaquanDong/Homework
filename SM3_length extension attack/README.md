@@ -23,7 +23,7 @@ SM3的消息长度是64字节或者它的倍数，如果消息的长度不足则
 
 
 ## Result
-![Image text](https://github.com/CLiangH/Picture/blob/main/ZK1.jpg)
+![Image text](https://github.com/DaquanDong/Homework/blob/main/SM3_length%20extension%20attack/Result.png)
 
 ## Reference
 https://github.com/hjzin/SM3LengthExtensionAttack
