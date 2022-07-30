@@ -15,7 +15,7 @@ Merkle树是一棵哈希树，叶节点存储数据，父节点包含其子节�
 ### Merkle Patricia Trie
 在MPT和Merkle树中，每个节点都有一个散列值。每个节点的哈希值由其内容的sha3哈希值决定。这个散列也用作指向节点的键。Go-ethereum使用levelDB, parity使用rocksDB存储状态。它们是键值存储器。存储中保存的键和值不是以太坊状态的键值。存储在存储器中的值是MPT节点的内容，而键是该节点的散列。
 
-![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Tree/result.png)
+![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Patricia%20Trie/MPT1.png)
 
 以太坊状态的key值作为MPT上的路径。Nibble是用于区分MPT中的键值的单位，因此每个节点最多可以有16个分支。此外，由于节点有自己的值，所以分支节点是一个包含17项的数组，由1个节点值和16个分支组成。
 
