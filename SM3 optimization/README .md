@@ -56,6 +56,11 @@ $A B C D E F G H \leftarrow V^{(n)}$
 
 ### 结果
 运行代码1000次，优化前后对比
+* 优化前
+
 ![Image text](https://github.com/DaquanDong/Homework/blob/main/SM3%20optimization/Results%20before%20optimization.png)
+
+* 优化后
+
 ![Image text](https://github.com/DaquanDong/Homework/blob/main/SM3%20optimization/Result%20after%20optimization.png)
 
