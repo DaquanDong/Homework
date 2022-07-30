@@ -32,7 +32,7 @@
 |  14  | Send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself |                                                              |     |
 |  15  | PoC impl of the scheme, or do implement analysis by Google   |                                                              |     |
 |  16  | Forge a signature to pretend that you are Satoshi            |                                                              |     |
-|  17  | Research report on MPT                                       | [MPT](https://github.com/DaquanDong/Homework/tree/main/Merkle%20Tree)                                                              |     |
+|  17  | Research report on MPT                                       | [MPT](https://github.com/DaquanDong/Homework/tree/main/Merkle%20Patricia%20Trie)                                                              | 吕洪宽    |
 |  18  | Find a key with hash value `sdu_cst_20220610` under a message composed of your name followed by your student ID. For example, `San Zhan 202000460001` |                                                              |     |
 |  19  | Find a 64-byte message under some k fulfilling that their hash value is symmetrical |                                                              |     |
 | 20.1 | Write a circuit to prove that your CET6 grade is larger than 425.（a. Your grade info is like `(cn_id, grade, year, sig_by_moe)`. These grades are published as commitments onchain by MoE. b. When you got an interview from an employer, you can prove to them that you have passed the exam without letting them know the exact grade.） |                                                              |     |
