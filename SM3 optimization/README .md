@@ -55,3 +55,6 @@ $A B C D E F G H \leftarrow V^{(n)}$
 * 多线程编程
 
 ### 结果
+* 运行代码1000次
+![Image text](https://github.com/CLiangH/Picture/blob/main/ZK1.jpg)
+
