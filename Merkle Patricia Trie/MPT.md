@@ -10,7 +10,7 @@ Merkle树是一棵哈希树，叶节点存储数据，父节点包含其子节�
 
 使用Merkle树可以有效地找出两个不同节点是否具有相同的数据。首先必须比较两个节点的Top Hash值。如果它们相同，则两个节点具有相同的数据。例如，如果上图，当有四个节点(L1, L2, L3, L4)时，只需要检查它们是否有相同的Top Hash。如果Top哈希不同，并且想知道哪些数据不同，应该比较Hash0和Hash1，并检查哪个分支不同。通过这样做，最终会发现哪些数据是不同的。
 
-![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Tree/result.png)
+![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Patricia%20Trie/Example%20of%20Patricia%20Trie.png)
 
 ### Merkle Patricia Trie
 在MPT和Merkle树中，每个节点都有一个散列值。每个节点的哈希值由其内容的sha3哈希值决定。这个散列也用作指向节点的键。Go-ethereum使用levelDB, parity使用rocksDB存储状态。它们是键值存储器。存储中保存的键和值不是以太坊状态的键值。存储在存储器中的值是MPT节点的内容，而键是该节点的散列。
