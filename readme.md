@@ -23,7 +23,7 @@
 |  5   | Impl Merkle Tree following RFC6962                           | 1.[Merkle Tree](https://github.com/DaquanDong/Homework/tree/main/Merkle%20Tree) (吕洪宽) 2.[Merkle_ Tree](https://github.com/DaquanDong/Homework/tree/main/Merkle_Tree)（董大铨） | 吕洪宽、董大铨 |
 |  6   | Try to Implement this scheme                                 | [Merkle_ Tree](https://github.com/DaquanDong/Homework/tree/main/Merkle_Tree) | 董大铨         |
 |  7   | Report on the application of this deduce technique in Ethereum with ECDSA | [ECDSA](https://github.com/DaquanDong/Homework/tree/main/ECDSA) | 董大铨         |
-|  8   | Impl sm2 with RFC6979                                        |                                                              |                |
+|  8   | Impl sm2 with RFC6979                                        | [sm2](https://github.com/DaquanDong/Homework/tree/main/sm2)  | 董大铨，邵鹏翔 |
 |  9   | Verify the above pitfalls with proof-of-concept code         |                                                              |                |
 |  10  | Implement the above ECMH scheme                              |                                                              |                |
 |  11  | Implement a PGP scheme with SM2                              |                                                              |                |
