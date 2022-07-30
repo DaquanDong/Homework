@@ -2,7 +2,8 @@
 
 ### Patricia Trie
 Patricia trie 是一种数据结构，也称为前缀树、基数树或 trie。 Trie 使用键作为路径，因此共享相同前缀的节点也可以共享相同的路径。 这种结构在查找公共前缀方面最快，实现简单，并且需要很小的内存。 
-![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Tree/result.png)
+
+![Image text](https://github.com/DaquanDong/Homework/blob/main/Merkle%20Patricia%20Trie/Example%20of%20Patricia%20Trie.png)
 
 ### Merkle Tree
 Merkle树是一棵哈希树，叶节点存储数据，父节点包含其子节点的哈希值以及子节点哈希值之和的哈希值。 由于除叶子节点之外的所有节点都包含一个哈希，因此默克尔树也称为哈希树。
