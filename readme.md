@@ -9,7 +9,7 @@
 | 小组成员姓名 | 小组成员学号 |                        Github账户名称                        |
 | :----------: | :----------: | :----------------------------------------------------------: |
 |    董大铨    | 201900460054 | [**DaquanDong**](https://github.com/DaquanDong) |
-|    吕洪宽    |     2019     |    [**** ]()    |
+|    吕洪宽    |     201918202216     |    [**HongkuanLv** ](https://github.com/HongkuanLv)    |
 |    邵鹏翔    |     2018     |     [**YuQingGuoYu**](https://github.com/YuQingGuoYu)      |
 
 ## 项目及完成情况：
