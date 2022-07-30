@@ -18,7 +18,7 @@ SM3的消息长度是64字节或者它的倍数，如果消息的长度不足则
 * 该project使用gmssl完成
 * sm3le.py是该project的长度扩展攻击代码
 * my_sm3.py对python库中的sm3实现部分稍作修改，以便完成长度扩展攻击
-* my_func.py：sm3实现部分用到的一些辅助函数，和python库中的一样，未作修改
+* func1.py：sm3实现部分用到的一些辅助函数，和python库中的一样，未作修改
 
 
 
