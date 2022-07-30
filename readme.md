@@ -16,7 +16,7 @@
 
 | 编号 | 名称                                                         | 文件夹对应                                                   |
 | :--: | :----------------------------------------------------------- | ------------------------------------------------------------ |
-|  1   | Implement the naïve birthday attack of reduced SM3           |                                                              |
+|  1   | Implement the naïve birthday attack of reduced SM3           | [SM3_BirthdayAttack](https://github.com/DaquanDong/Homework/tree/main/SM3_BirthdayAttack)|
 |  2   | Implement the Rho method of reduced SM3                      | [SM3_RhoMethod](https://github.com/DaquanDong/Homework/tree/main/SM3_RhoMethod) |
 |  3   | Implement length extension attack for SM3, SHA256, etc       |                                                              |
 |  4   | Do your best to optimize SM3 implementation (software)       |                                                              |
