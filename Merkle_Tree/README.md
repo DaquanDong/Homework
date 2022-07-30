@@ -7,7 +7,7 @@ Merkle Tree 本身也算是一个哈希列表，只不过是在这个基础上�
 
 Merkle树的叶子是数据块(例如，文件或者文件的集合)的hash值。非叶节点是其对应子节点串联字符串的hash。
 
-![image-20220731005445439](C:\Users\AAA\AppData\Roaming\Typora\typora-user-images\image-20220731005445439.png)
+![2](2.png)
 
 Merkle Tree和Hash List的主要区别是，可以直接下载并立即验证Merkle Tree的一个分支。因为可以将文件切分成小的数据块，这样如果有一块数据损坏，仅仅重新下载这个数据块就行了。如果文件非常大，那么Merkle tree和Hash list都很到，但是Merkle tree可以一次下载一个分支，然后立即验证这个分支，如果分支验证通过，就可以下载数据了。而Hash list只有下载整个hash list才能验证。 
 
@@ -19,7 +19,7 @@ Merkle Tree和Hash List的主要区别是，可以直接下载并立即验证Mer
 
 以下为代码运行情况，可以看到已完成四个任务：
 
-![1](C:\Users\AAA\OneDrive - mail.sdu.edu.cn\Desktop\MerkleTree\1.png)
+![1](1.png)
 
 ****
 
